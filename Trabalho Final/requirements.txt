@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas
+yfinance
+matplotlib
+statsmodels
+scikit-learn
+prophet
+openpyxl
+cmdstanpy
+tqdm
+pmdarima==2.0.4
